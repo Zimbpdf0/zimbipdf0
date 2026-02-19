@@ -1,0 +1,43 @@
+{
+  "categories": [
+    {
+      "name": "Vila / Mercado",
+      "items": [
+        {
+          "title": "Vila Medieval",
+          "type": "ambience",
+          "url": "https://example.com/vila.mp3",
+          "loop": true,
+          "volume": 0.8,
+          "tags": ["vila", "cidade"]
+        }
+      ]
+    },
+    {
+      "name": "Floresta",
+      "items": [
+        {
+          "title": "Floresta com Vento",
+          "type": "ambience",
+          "url": "https://example.com/floresta.mp3",
+          "loop": true,
+          "volume": 0.8,
+          "tags": ["natureza"]
+        }
+      ]
+    },
+    {
+      "name": "Efeitos",
+      "items": [
+        {
+          "title": "Porta Rangendo",
+          "type": "sfx",
+          "url": "https://example.com/porta.mp3",
+          "loop": false,
+          "volume": 1,
+          "tags": ["porta", "dungeon"]
+        }
+      ]
+    }
+  ]
+}
